@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fast Food</string>
+    <string name="title_activity_trang_chu">Trang Chủ</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Fast Food</string>
+    <string name="nav_header_subtitle">chief123@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Trang chủ</string>
+    <string name="menu_thucan">Thức ăn</string>
+    <string name="menu_nuoc">Nước</string>
+    <string name="menu_lienhe">Liên hệ</string>
+</resources>
